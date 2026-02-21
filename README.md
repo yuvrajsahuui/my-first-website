@@ -1,5 +1,3 @@
-# my-first-website
-Just for experience
 index.html
 <!DOCTYPE html>
 <html>
